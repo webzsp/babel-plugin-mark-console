@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-mark-console",
+  "version": "0.0.1",
+  "description": "为console添加文件名标记",
+  "main": "index.js",
+  "module": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "webzsp",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webzsp/babel-plugin-mark-console.git"
+  }
+}
